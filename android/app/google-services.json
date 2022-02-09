@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76575451285",
+    "project_id": "btb1-b8c9d",
+    "storage_bucket": "btb1-b8c9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76575451285:android:5774fe63d6e1b282fa539c",
+        "android_client_info": {
+          "package_name": "com.philix.btb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76575451285-r2ethgv2vfq1h1lgig7vcs9g84hgvjc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBZSjGja2s4keiYBtr62gFjKCaJEGAtE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76575451285-r2ethgv2vfq1h1lgig7vcs9g84hgvjc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

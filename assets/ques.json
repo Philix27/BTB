@@ -1,0 +1,4635 @@
+[{
+  "_id": {
+    "$oid": "617ac94d9be623ee8087c80b"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "Pick out the appropriate alimentary route of administration when passage of drugs through liver is minimized:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Oral",
+    "Transdermal",
+    "Rectal",
+    "Intraduodenal"
+  ]
+},{
+  "_id": {
+    "$oid": "617ac9749be623ee8087c814"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "Which route of drug administration is most likely to lead to the first-pass effect?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Sublingual",
+    "Oral",
+    "Intravenous",
+    "Intramuscular"
+  ]
+},{
+  "_id": {
+    "$oid": "617ac9a39be623ee8087c81c"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "What is characteristic of the oral route?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    " Fast onset of effect",
+    " Absorption depends on GI tract secretion and motor function",
+    " A drug reaches the blood passing the liver",
+    "The sterilization of medicinal forms is obligatory"
+  ]
+},{
+  "_id": {
+    "$oid": "617ac9f39be623ee8087c825"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "Tick the feature of the sublingual route:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Pretty fast absorption",
+    "A drug is exposed to gastric secretion",
+    "A drug is exposed more prominent liver metabolism",
+    "A drug can be administrated in a variety of doses"
+  ]
+},{
+  "_id": {
+    "$oid": "617aca4d9be623ee8087c82f"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "Pick out the parenteral route of medicinal agent administration:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Rectal",
+    "Oral",
+    "Sublingual",
+    "Inhalation"
+  ]
+},{
+  "_id": {
+    "$oid": "617aca859be623ee8087c83a"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "Parenteral administration:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Cannot be used with unconsciousness patients",
+    "Generally results in a less accurate dosage than oral administration",
+    "Usually produces a more rapid response than oral administration ",
+    " Is too slow for emergency use"
+  ]
+},{
+  "_id": {
+    "$oid": "617acac39be623ee8087c844"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "What is characteristic of the intramuscular route of drug administration?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    " Only water solutions can be injected ",
+    "Oily solutions can be injected ",
+    "Opportunity of hypertonic solution injections",
+    "The action develops slower, than at oral administration"
+  ]
+},{
+  "_id": {
+    "$oid": "617acb299be623ee8087c84c"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "Intravenous injections are more suitable for oily solutions:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "True",
+    "False",
+    "",
+    ""
+  ]
+},{
+  "_id": {
+    "$oid": "617acb689be623ee8087c859"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "Correct statements listing characteristics of a particular route of drug administration include all of the following EXCEPT:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Intravenous administration provides a rapid response",
+    " Intramuscular administration requires a sterile technique",
+    "Inhalation provides slow access to the general circulation",
+    " Subcutaneous administration may cause local irritation "
+  ]
+},{
+  "_id": {
+    "$oid": "617acbd39be623ee8087c864"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "Most of drugs are distributed homogeneously",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "True",
+    "False",
+    "",
+    ""
+  ]
+},{
+  "_id": {
+    "$oid": "617acbfc9be623ee8087c86d"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "Biological barriers include all except:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Renal tubules",
+    " Cell membranes",
+    "Capillary walls",
+    "Placenta"
+  ]
+},{
+  "_id": {
+    "$oid": "617acc4a9be623ee8087c879"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "What is the reason of complicated penetration of some drugs through brain-blood barrier?",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "High lipid solubility of a drug ",
+    "Meningitis",
+    "Absence of pores in the brain capillary endothelium",
+    "High endocytosis degree in a brain capillary"
+  ]
+},{
+  "_id": {
+    "$oid": "617acc8c9be623ee8087c883"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "The volume of distribution (Vd) relates:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Single to a daily dose of an administrated drug",
+    "An administrated dose to a body weight ",
+    "An uncharged drug reaching the systemic circulation",
+    "The amount of a drug in the body to the concentration of a drug in plasma "
+  ]
+},{
+  "_id": {
+    "$oid": "617accbb9be623ee8087c88e"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "For the calculation of the volume of distribution (Vd) one must take into account:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Concentration of a substance in plasma",
+    "Concentration of substance in urine",
+    "Therapeutical width of drug action",
+    "A daily dose of drug"
+  ]
+},{
+  "_id": {
+    "$oid": "617accda9be623ee8087c89a"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "A small amount of the volume of distribution is common for lipophylic substances easy penetrating through barriers and  widely distributing in plasma, interstitial and cell fluids:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "True",
+    "False",
+    "",
+    ""
+  ]
+},{
+  "_id": {
+    "$oid": "617acd189be623ee8087c8a3"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "The term “biotransformation” includes the following:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Accumulation of substances in a fat tissue",
+    "Binding of substances with plasma proteins",
+    "Accumulation of substances in a tissue",
+    " Process of physicochemical and biochemical alteration of a drug in the body"
+  ]
+},{
+  "_id": {
+    "$oid": "617acd3f9be623ee8087c8ac"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "Biotransformation of the drugs is to render them:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Less ionized ",
+    " More pharmacologically active",
+    " More lipid soluble",
+    "Less lipid soluble"
+  ]
+},{
+  "_id": {
+    "$oid": "617acd849be623ee8087c8b7"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "Tick the drug type for which microsomal oxidation is the most prominent:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    " Lipid soluble ",
+    "Water soluble",
+    "Low molecular weight",
+    "High molecular weight"
+  ]
+},{
+  "_id": {
+    "$oid": "617acdb59be623ee8087c8c0"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "Pick out the right statement:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Microsomal oxidation always results in inactivation of a compound ",
+    " Microsomal oxidation results in a decrease of compound toxicity",
+    "Microsomal oxidation results in an increase of ionization and water solubility of a drug",
+    "Microsomal oxidation results in an increase of lipid solubility of a drug thus its excretion from the organism is facilitated"
+  ]
+},{
+  "_id": {
+    "$oid": "617acdea9be623ee8087c8ca"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "Stimulation of liver microsomal enzymes can:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Require the dose increase of some drugs",
+    "Require the dose decrease of some drugs",
+    " Prolong the duration of the action of a drug",
+    " Intensify the unwanted reaction of a drug "
+  ]
+},{
+  "_id": {
+    "$oid": "617ace189be623ee8087c8d3"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "Metabolic transformation (phase 1) is:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Acetylation and methylation of substances ",
+    "Transformation of substances due to oxidation, reduction or hydrolysis",
+    "Glucuronide formation",
+    "Binding to plasma proteins "
+  ]
+},{
+  "_id": {
+    "$oid": "617ace4c9be623ee8087c8dd"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "Biotransformation of a medicinal substance results in:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Faster urinary excretion",
+    "Slower urinary excretion",
+    "Easier distribution in organism",
+    "Higher binding to membranes"
+  ]
+},{
+  "_id": {
+    "$oid": "617ace7c9be623ee8087c8e6"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "Conjugation is:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Process of drug reduction by special enzymes",
+    " Process of drug oxidation by special oxidases ",
+    "Coupling of a drug with an endogenous substrate",
+    "Solubilization in lipids"
+  ]
+},{
+  "_id": {
+    "$oid": "617aceac9be623ee8087c8ef"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "Which of the following processes proceeds in the second phase of biotransformation?",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Acetylation",
+    "Reduction",
+    "Oxidation",
+    "Hydrolysis"
+  ]
+},{
+  "_id": {
+    "$oid": "617aced19be623ee8087c8f8"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "Conjugation of a drug includes the following EXCEPT:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Glucoronidation",
+    "Sulfate formation",
+    "Hydrolysis",
+    "Methylation"
+  ]
+},{
+  "_id": {
+    "$oid": "617aceeb9be623ee8087c900"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "Metabolic transformation and conjugation usually results in an increase of a substance biological activity:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "True",
+    "False",
+    "",
+    ""
+  ]
+},{
+  "_id": {
+    "$oid": "617acf349be623ee8087c90a"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "In case of liver disorders accompanied by a decline in microsomal enzyme activity the duration of action of some drugs  is:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Decreased",
+    "Enlarged",
+    "Remained unchanged",
+    "Changed insignificantly"
+  ]
+},{
+  "_id": {
+    "$oid": "617acf6a9be623ee8087c915"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "Half life (t ½) is the time required to:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Change the amount of a drug in plasma by half during elimination",
+    "Metabolize a half of an introduced drug into the active metabolite",
+    "Absorb a half of an introduced drug",
+    "Bind a half of an introduced drug to plasma proteins"
+  ]
+},{
+  "_id": {
+    "$oid": "617acfb39be623ee8087c91e"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "Half life (t ½) doesn’t depend on:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Biotransformation ",
+    "Time of drug absorption",
+    "Concentration of a drug in plasma ",
+    " Rate of drug elimination"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad06f9be623ee8087c927"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "Elimination is expressed as follows:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Rate of renal tubular reabsorption",
+    "Clearance speed of some volume of blood from substance",
+    "Time required to decrease the amount of drug in plasma by one-half",
+    " Clearance of an organism from a xenobiotic"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad0a79be623ee8087c92f"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "Elimination rate constant (Kelim) is defined by the following parameter:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Rate of absorption ",
+    "Maximal concentration of a substance in plasma",
+    "Highest single dose",
+    "Half life (t ½) "
+  ]
+},{
+  "_id": {
+    "$oid": "617ad0c39be623ee8087c937"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "The most rapid eliminated drugs are those with high glomerular filtration rate and actively secreted but aren’t passively  reabsorbed:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "True",
+    "False",
+    "",
+    ""
+  ]
+},{
+  "_id": {
+    "$oid": "617ad0f39be623ee8087c942"
+  },
+  "category": "PHARMACOKINETICS",
+  "question": "Systemic clearance (CLs) is related with:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Only the concentration of substances in plasma",
+    "Only the elimination rate constant",
+    "Volume of distribution, half life and elimination rate constant",
+    "Bioavailability and half life"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad1599be623ee8087c94e"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "Pharmacodynamics involves the study of following EXCEPT:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Biological and therapeutic effects of drugs",
+    "Absorption and distribution of drugs ",
+    "Mechanisms of drug action",
+    "Drug interactions"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad1869be623ee8087c95a"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "Pharmacodynamics involves the study of following?",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Mechanisms of drug action",
+    "Biotransformation of drugs in the organism",
+    "Distribution of drugs in the organism",
+    "Excretion of drug from the organism"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad1b29be623ee8087c964"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "Pharmacodynamics involves the following?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Information about main mechanisms of drug absorption",
+    "Information about unwanted effects ",
+    " Information about biological barriers",
+    "Information about excretion of a drug from the organism "
+  ]
+},{
+  "_id": {
+    "$oid": "617ad2069be623ee8087c96e"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "Pick out the answer which is the most appropriate to the term “receptor”",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "All types of ion channels modulated by a drug",
+    "Enzymes of oxidizing-reducing reactions activated by a drug ",
+    "Active macromolecular components of a cell or an organism which a drug molecule has to combine with in  order to elicit its specific effect ",
+    "Carriers activated by a drug"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad2939be623ee8087c978"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "What does “affinity” mean?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    " A measure of how tightly a drug binds to plasma proteins ",
+    " A measure of how tightly a drug binds to a receptor",
+    " A measure of inhibiting potency of a drug ",
+    "A measure of bioavailability of a drug"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad3239be623ee8087c981"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "Target proteins which a drug molecule binds are:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    " Only receptors",
+    " Only ion channels",
+    " Only carriers ",
+    "All of the above"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad34e9be623ee8087c98a"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "An agonist is a substance that:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Interacts with the receptor without producing any effect",
+    "Interacts with the receptor and initiates changes in cell function, producing various effects",
+    " Increases concentration of another substance to produce effect",
+    " Interacts with plasma proteins and doesn’t produce any effect "
+  ]
+},{
+  "_id": {
+    "$oid": "617ad37a9be623ee8087c994"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "If an agonist can produce maximal effects and has high efficacy it’s called:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Partial agonist",
+    "Antagonist",
+    "Agonist-antagonist ",
+    "Full agonist"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad3a39be623ee8087c99d"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "If an agonist can produce submaximal effects and has moderate efficacy it’s called:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Partial agonist",
+    "Antagonist",
+    "Agonist-antagonist",
+    "Full agonist"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad3d99be623ee8087c9a9"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "An antagonist is a substance that:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Binds to the receptors and initiates changes in cell function, producing maximal effect ",
+    "Binds to the receptors and initiates changes in cell function, producing submaximal effect",
+    "Interacts with plasma proteins and doesn’t produce any effect ",
+    "Binds to the receptors without directly altering their functions "
+  ]
+},{
+  "_id": {
+    "$oid": "617ad4059be623ee8087c9b3"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "A competitive antagonist is a substance that:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Interacts with receptors and produces submaximal effect",
+    "Binds to the same receptor site and progressively inhibits the agonist response ",
+    "Binds to the nonspecific sites of tissue",
+    "Binds to one receptor subtype as an agonist and to another as an antagonist "
+  ]
+},{
+  "_id": {
+    "$oid": "617ad4309be623ee8087c9bd"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "The substance binding to one receptor subtype as an agonist and to another as an antagonist is called:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Competitive antagonist",
+    "Irreversible antagonist",
+    "Agonist-antagonist",
+    "Partial agonist"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad45e9be623ee8087c9c7"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "Irreversible interaction of an antagonist with a receptor is due to:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    " Ionic bonds ",
+    "Hydrogen bonds",
+    "Covalent bonds",
+    "All of the above"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad48f9be623ee8087c9d4"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "Mechanisms of transmembrane signaling are the following EXCEPT:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Transmembrane receptors that bind and stimulate a protein tyrosine kinase",
+    "Gene replacement by the introduction of a therapeutic gene to correct a genetic effect",
+    " Ligand-gated ion channels that can be induced to open or close by binding a ligand",
+    "Transmembrane receptor protein that stimulates a GTP-binding signal transducer protein (G-protein) which in turn  generates an intracellular second messenger"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad4b79be623ee8087c9dd"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "Tick the second messenger of G-protein-coupled (metabotropic) receptor:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Adenylyl cyclase",
+    "Sodium ions",
+    " Phospholipase C",
+    "cAMP"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad4da9be623ee8087c9e6"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "Tick the substance which changes the activity of an effector element but doesn’t belong to second messengers:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    " cAMP",
+    " cGMP",
+    "G–protein",
+    "Calcium ions"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad5419be623ee8087c9ef"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "The increase of second messengers’ (cAMP, cGMP, Ca2+ etc.) concentration leads to:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Inhibition of intracellular protein kinases and protein phosphorylation",
+    " Proteinkinases activation and protein phosphorylation",
+    " Blocking of interaction between a receptor and an effector",
+    "Antagonism with endogenous ligands"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad5729be623ee8087c9f8"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "Tick the substances whose mechanisms are based on interaction with ion channels",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Sodium channel blockers",
+    "Calcium channel blockers",
+    "Potassium channels activators",
+    "All of the above"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad59d9be623ee8087ca00"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "All of the following statements about efficacy and potency are true EXCEPT:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    " Efficacy is usually a more important clinical consideration than potency",
+    "Efficacy is the maximum effect of a drug",
+    "Potency is a comparative measure, refers to the different doses of two drugs that are needed to produce the same  effect",
+    "The ED50 is a measure of drug’s efficacy"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad5cb9be623ee8087ca09"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "Give the definition for a therapeutical dose:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "The amount of a substance to produce the minimal biological effect ",
+    "The amount of a substance to produce effects hazardous for an organism ",
+    "The amount of a substance to produce the required effect in most patients ",
+    "The amount of a substance to accelerate an increase of concentration of medicine in an organism"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad5fb9be623ee8087ca12"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "Pick out the correct definition of a toxic dose:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "The amount of substance to produce the minimal biological effect",
+    "The amount of substance to produce effects hazardous for an organism",
+    "The amount of substance to produce the necessary effect in most of patients",
+    " The amount of substance to fast creation of high concentration of medicine in an organism"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad61f9be623ee8087ca1a"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "Which effect may lead to toxic reactions when a drug is taken continuously or repeatedly?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Refractoriness",
+    "Cumulative effect ",
+    "Tolerance",
+    "Tachyphylaxis"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad6469be623ee8087ca23"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "What term is used to describe a more gradual decrease in responsiveness to a drug, taking days or weeks to develop?",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Refractoriness",
+    "Cumulative effect",
+    "Tolerance",
+    "Tachyphylaxis"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad66d9be623ee8087ca2c"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "What term is used to describe a decrease in responsiveness to a drug which develops in a few minutes?",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Refractoriness",
+    " Cumulative effect",
+    "Tolerance",
+    "Tachyphylaxis"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad73c9be623ee8087ca35"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "Tachyphylaxis is:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "A drug interaction between two similar types of drugs",
+    "Very rapidly developing tolerance ",
+    "A decrease in responsiveness to a drug, taking days or weeks to develop",
+    "None of the above "
+  ]
+},{
+  "_id": {
+    "$oid": "617ad7579be623ee8087ca3d"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "Drug resistance is a term used to describe the loss of effectiveness of antimicrobial or antitumour drugs. This  consideration is:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "True",
+    "False",
+    "",
+    ""
+  ]
+},{
+  "_id": {
+    "$oid": "617ad7879be623ee8087ca49"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "Tolerance and drug resistance can be a consequence of:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Drug dependence",
+    "Increased metabolic degradation",
+    "Depressed renal drug excretion",
+    "Activation of a drug after hepatic first-pass"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad7b09be623ee8087ca52"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "Tolerance and drug resistance can be a consequence of:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Change in receptors, loss of them or exhaustion of mediators",
+    " Increased receptor sensitivity ",
+    "Decreased metabolic degradation ",
+    "Decreased renal tubular secretion"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad7df9be623ee8087ca5c"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "Tolerance develops because of:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Diminished absorption",
+    "Rapid excretion of a drug ",
+    "Both of the above",
+    "None of the above "
+  ]
+},{
+  "_id": {
+    "$oid": "617ad7fd9be623ee8087ca64"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "Dependence is often associated with tolerance to a drug, a physical abstinence syndrome, and psychological  dependence (craving). This consideration is:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "True",
+    "False",
+    "",
+    ""
+  ]
+},{
+  "_id": {
+    "$oid": "617ad83a9be623ee8087ca6d"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "The situation when failure to continue administering the drug results in serious psychological and somatic disturbances is  called?",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Tachyphylaxis",
+    "Sensibilization",
+    "Abstinence syndrome ",
+    "Idiosyncrasy"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad8d19be623ee8087ca78"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "What is the type of drug-to-drug interaction which is connected with processes of absorption, biotransformation,  distribution and excretion?",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Pharmacodynamic interaction",
+    "Physical and chemical interaction",
+    "Pharmaceutical interaction",
+    "Pharmacokinetic interaction"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad8fc9be623ee8087ca83"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "What is the type of drug-to-drug interaction which is the result of interaction at receptor, cell, enzyme or organ level?",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Pharmacodynamic interaction",
+    "Physical and chemical interaction",
+    "Pharmaceutical interaction",
+    "Pharmacokinetic interaction"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad91e9be623ee8087ca8c"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "What phenomenon can occur in case of using a combination of drugs?",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Tolerance",
+    "Tachyphylaxis",
+    "Accumulation",
+    "Synergism"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad9429be623ee8087ca95"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "If two drugs with the same effect, taken together, produce an effect that is equal in magnitude to the sum of the effects of  the drugs given individually, it is called as:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Antagonism",
+    "Potentiation",
+    "Additive effect ",
+    " None of the above"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad9759be623ee8087caa0"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "What does the term “potentiation” mean?",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Cumulative ability of a drug",
+    "Hypersensitivity to a drug",
+    "Fast tolerance developing ",
+    "Intensive increase of drug effects due to their combination"
+  ]
+},{
+  "_id": {
+    "$oid": "617ad9fc9be623ee8087caa8"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "The types of antagonism are:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Summarized",
+    "Potentiated",
+    "Additive",
+    "Competitive"
+  ]
+},{
+  "_id": {
+    "$oid": "617ada249be623ee8087cab1"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "The term “chemical antagonism” means that:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "two drugs combine with one another to form an inactive compound ",
+    " two drugs combine with one another to form a more active compound ",
+    "two drugs combine with one another to form a more water soluble compound",
+    "two drugs combine with one another to form a more fat soluble compound "
+  ]
+},{
+  "_id": {
+    "$oid": "617ada589be623ee8087caba"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "A teratogenic action is:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Toxic action on the liver ",
+    "Negative action on the fetus causing fetal malformation",
+    "Toxic action on blood system",
+    "Toxic action on kidneys"
+  ]
+},{
+  "_id": {
+    "$oid": "617adac89be623ee8087cac2"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "Characteristic unwanted reaction which isn’t related to a dose or to a pharmacodynamic property of a drug is called:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Idiosyncrasy",
+    "Hypersensitivity",
+    "Tolerance",
+    "Teratogenic action"
+  ]
+},{
+  "_id": {
+    "$oid": "617adaf39be623ee8087cacb"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "Idiosyncratic reaction of a drug is:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "A type of hypersensitivity reaction",
+    "A type of drug antagonism",
+    "Unpredictable, inherent, qualitatively abnormal reaction to a drug",
+    " Quantitatively exaggerated response"
+  ]
+},{
+  "_id": {
+    "$oid": "617adb559be623ee8087cad4"
+  },
+  "category": "PHARMACODYNAMICS",
+  "question": "Therapeutic index (TI) is:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "A ratio used to evaluate the safety and usefulness of a drug for indication ",
+    " A ratio used to evaluate the effectiveness of a drug",
+    "A ratio used to evaluate the bioavailability of a drug ",
+    " A ratio used to evaluate the elimination of a drug"
+  ]
+},{
+  "_id": {
+    "$oid": "617adf619be623ee8087cae3"
+  },
+  "category": "Local anesthetics",
+  "question": "Local anesthetics produce:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Analgesia, amnesia, loss of consciousness",
+    "Blocking pain sensation without loss of consciousness",
+    "Alleviation of anxiety and pain with an altered level of consciousness",
+    "A stupor or somnolent state "
+  ]
+},{
+  "_id": {
+    "$oid": "617ae0039be623ee8087caf0"
+  },
+  "category": "Local anesthetics",
+  "question": "A good local anesthetic agent shouldn’t cause:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Local irritation and tissue damage ",
+    "Systemic toxicity",
+    " Fast onset and long duration of action",
+    "Vasodilatation"
+  ]
+},{
+  "_id": {
+    "$oid": "617ae0319be623ee8087cafa"
+  },
+  "category": "Local anesthetics",
+  "question": "Most local anesthetic agents consist of:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Lipophylic group (frequently an aromatic ring) ",
+    "Intermediate chain (commonly including an ester or amide)",
+    "Amino group",
+    "All of the above"
+  ]
+},{
+  "_id": {
+    "$oid": "617ae0619be623ee8087cb04"
+  },
+  "category": "Local anesthetics",
+  "question": "Which one of the following groups is responsible for the duration of the local anesthetic action?",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    " Intermediate chain",
+    "Lipophylic group",
+    "Ionizable group",
+    " All of the above"
+  ]
+},{
+  "_id": {
+    "$oid": "617ae0849be623ee8087cb0d"
+  },
+  "category": "Local anesthetics",
+  "question": "Indicate the local anesthetic agent, which has a shorter duration of action:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Lidocaine",
+    "Procaine",
+    "Bupivacaine",
+    "Ropivacaine"
+  ]
+},{
+  "_id": {
+    "$oid": "617ae0ba9be623ee8087cb17"
+  },
+  "category": "Local anesthetics",
+  "question": "Which one of the following groups is responsible for the potency and the toxicity of local anesthetics?",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Ionizable group",
+    "Intermediate chain ",
+    "Lipophylic group ",
+    "All of the above"
+  ]
+},{
+  "_id": {
+    "$oid": "617ae1609be623ee8087cb20"
+  },
+  "category": "Local anesthetics",
+  "question": "Indicate the drug, which has greater potency of the local anesthetic action:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Lidocaine",
+    "Bupivacaine",
+    "Procaine",
+    "Mepivacaine"
+  ]
+},{
+  "_id": {
+    "$oid": "617ae1999be623ee8087cb2a"
+  },
+  "category": "Local anesthetics",
+  "question": "Ionizable group is responsible for:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    " The potency and the toxicity",
+    "The duration of action",
+    "The ability to diffuse to the site of action",
+    "All of the above "
+  ]
+},{
+  "_id": {
+    "$oid": "617ae1c69be623ee8087cb33"
+  },
+  "category": "Local anesthetics",
+  "question": "Which one of the following local anesthetics is an ester of benzoic acid?",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Lidocaine",
+    "Procaine",
+    "Ropivacaine",
+    "Cocaine"
+  ]
+},{
+  "_id": {
+    "$oid": "617ae1f49be623ee8087cb3c"
+  },
+  "category": "Local anesthetics",
+  "question": "Indicate the local anesthetic, which is an ester of paraaminobenzoic acid:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Mepivacaine",
+    "Cocaine",
+    "Procaine",
+    "Lidocaine"
+  ]
+},{
+  "_id": {
+    "$oid": "617ae21a9be623ee8087cb45"
+  },
+  "category": "Local anesthetics",
+  "question": "Which of the following local anesthetics is an acetanilide derivative?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Tetracaine",
+    "Lidocaine",
+    "Cocaine",
+    "Procaine"
+  ]
+},{
+  "_id": {
+    "$oid": "617ae2439be623ee8087cb4e"
+  },
+  "category": "Local anesthetics",
+  "question": "Indicate the local anesthetic, which is a toluidine derivative:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Lidocaine",
+    "Bupivacaine",
+    "Prilocaine",
+    "Procaine"
+  ]
+},{
+  "_id": {
+    "$oid": "617ae2699be623ee8087cb57"
+  },
+  "category": "Local anesthetics",
+  "question": "Which of the following local anesthetics is a thiophene derivative?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Procaine",
+    "Ultracaine",
+    "Lidocaine",
+    "Mepivacaine"
+  ]
+},{
+  "_id": {
+    "$oid": "617ae28b9be623ee8087cb60"
+  },
+  "category": "Local anesthetics",
+  "question": "Local anesthetics are:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Weak bases",
+    "Weak acids",
+    "Salts",
+    " None of the above"
+  ]
+},{
+  "_id": {
+    "$oid": "617ae2b79be623ee8087cb6a"
+  },
+  "category": "Local anesthetics",
+  "question": "For therapeutic application local anesthetics are usually made available as salts for the reasons of:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    " Less toxicity and higher potency",
+    "Higher stability and greater lipid solubility",
+    "Less local tissue damage and more potency",
+    " More stability and greater water solubility"
+  ]
+},{
+  "_id": {
+    "$oid": "617c22bb6a957dfb1c7d229d"
+  },
+  "category": "Local anesthetics",
+  "question": "Which of the following statements is not correct for local anesthetics?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "In a tissue they exist either as an uncharged base or as a cation",
+    "A charged cationic form penetrates biologic membranes more readily than an uncharged form",
+    "Local anesthetics are much less effective in inflamed tissues",
+    "Low ph in inflamed tissues decreases the dissociation of nonionized molecules"
+  ]
+},{
+  "_id": {
+    "$oid": "617c22eb6a957dfb1c7d22a6"
+  },
+  "category": "Local anesthetics",
+  "question": "Which one of the following statements about the metabolism of local anesthetics is incorrect?",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    " Metabolism of local anesthetics occurs at the site of administration ",
+    "Metabolism occurs in the plasma or liver but not at the site of administration",
+    "Ester group of anesthetics like procaine, are metabolized systemically by pseudocholinesterase",
+    "Amides such as lidocaine, are metabolized in the liver by microsomal mixed function oxidases "
+  ]
+},{
+  "_id": {
+    "$oid": "617c23196a957dfb1c7d22af"
+  },
+  "category": "Local anesthetics",
+  "question": "Indicate the anesthetic agent of choice in patient with a liver disease:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Lidocaine",
+    "Bupivacaine",
+    "Procaine",
+    "Etidocaine"
+  ]
+},{
+  "_id": {
+    "$oid": "617c247f6a957dfb1c7d22b8"
+  },
+  "category": "Local anesthetics",
+  "question": "Which of the following local anesthetics is preferable in patient with pseudocholinesterase deficiency?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Procaine",
+    "Ropivacaine",
+    "Tetracaine",
+    "Benzocaine"
+  ]
+},{
+  "_id": {
+    "$oid": "617c24ef6a957dfb1c7d22c2"
+  },
+  "category": "Local anesthetics",
+  "question": "The primary mechanism of action of local anesthetics is:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Activation of ligand-gated potassium channels",
+    "Blockade of voltage-gated sodium channels ",
+    " Stimulation of voltage-gated N-type calcium channels",
+    "Blockade the GABA-gated chloride channels"
+  ]
+},{
+  "_id": {
+    "$oid": "617c254b6a957dfb1c7d22cb"
+  },
+  "category": "Local anesthetics",
+  "question": "Which of the following local anesthetics is more water-soluble?",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Tetracaine",
+    "Etidocaine",
+    "Procaine",
+    "Bupivacaine"
+  ]
+},{
+  "_id": {
+    "$oid": "617c25786a957dfb1c7d22d4"
+  },
+  "category": "Local anesthetics",
+  "question": "Indicate the local anesthetic, which is more lipid-soluble:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Bupivacaine",
+    "Lidocaine",
+    "Mepivacaine",
+    "Procaine"
+  ]
+},{
+  "_id": {
+    "$oid": "617c25a36a957dfb1c7d22de"
+  },
+  "category": "Local anesthetics",
+  "question": "The more lipophylic drugs:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Are more potent",
+    "Have longer duration of action",
+    " Bind more extensively to proteins",
+    "All of the above"
+  ]
+},{
+  "_id": {
+    "$oid": "617c2f3d6a957dfb1c7d22e7"
+  },
+  "category": "Local anesthetics",
+  "question": "Which of the following fibers is the first to be blocked?",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Type A alpha fibers",
+    "B and C fibers",
+    "Type A beta fibers",
+    "Type A gamma fibers"
+  ]
+},{
+  "_id": {
+    "$oid": "617c2f656a957dfb1c7d22f2"
+  },
+  "category": "Local anesthetics",
+  "question": "Indicate the function, which the last to be blocked:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Pain, temperature",
+    "Muscle spindles",
+    "Motor function",
+    "Touch, pressure"
+  ]
+},{
+  "_id": {
+    "$oid": "617c2f8a6a957dfb1c7d22fb"
+  },
+  "category": "Local anesthetics",
+  "question": "Which of the following fibers participates in high-frequency pain transmission?",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Type A delta and C fibers",
+    "Type A alpha fibers",
+    "Type B fibers",
+    "Type A beta fibers"
+  ]
+},{
+  "_id": {
+    "$oid": "617c2fd46a957dfb1c7d2304"
+  },
+  "category": "Local anesthetics",
+  "question": "Which of the following local anesthetics is an useful antiarrhythmic agent?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Cocaine",
+    "Lidocaine",
+    "Bupivacaine",
+    "Ropivacaine"
+  ]
+},{
+  "_id": {
+    "$oid": "617c30096a957dfb1c7d230d"
+  },
+  "category": "Local anesthetics",
+  "question": "Indicate the route of local anesthetic administration, which is associated with instillation within epidural or subarachnoid  spaces:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Topical anesthesia ",
+    " Infiltrative anesthesia",
+    "Regional anesthesia",
+    "Spinal anesthesia "
+  ]
+},{
+  "_id": {
+    "$oid": "617c302e6a957dfb1c7d2315"
+  },
+  "category": "Local anesthetics",
+  "question": "The choice of a local anesthetic for specific procedures is usually based on:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "The duration of action",
+    "Water solubility",
+    "Capability of rapid penetration through the skin or mucosa with limited tendency to diffuse away from the site of  application",
+    "All of the above "
+  ]
+},{
+  "_id": {
+    "$oid": "617c304b6a957dfb1c7d231e"
+  },
+  "category": "Local anesthetics",
+  "question": "Which of the following local anesthetics is a short-acting drug?",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Procaine",
+    "Tetracaine",
+    "Bupivacaine",
+    "Ropivacaine"
+  ]
+},{
+  "_id": {
+    "$oid": "617c30696a957dfb1c7d2327"
+  },
+  "category": "Local anesthetics",
+  "question": "Indicate the local anesthetic, which is a long-acting agent:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Lidocaine",
+    "Bupivacaine",
+    "Procaine",
+    "Mepivacaine"
+  ]
+},{
+  "_id": {
+    "$oid": "617c30876a957dfb1c7d2330"
+  },
+  "category": "Local anesthetics",
+  "question": "The anesthetic effect of the agents of short and intermediate duration of action can not be prolonged by adding:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Epinephrine",
+    "Norepinephrine",
+    "Dopamine",
+    "Phenylephrine"
+  ]
+},{
+  "_id": {
+    "$oid": "617c30af6a957dfb1c7d2339"
+  },
+  "category": "Local anesthetics",
+  "question": "A vasoconstrictor does not:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Retard the removal of drug from the injection site",
+    " Hence the chance of toxicity",
+    "Decrease the blood level",
+    "Reduce a local anesthetic uptake by the nerve"
+  ]
+},{
+  "_id": {
+    "$oid": "617c30cb6a957dfb1c7d2342"
+  },
+  "category": "Local anesthetics",
+  "question": "Vasoconstrictors are less effective in prolonging anesthetic properties of:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Procaine",
+    "Bupivacaine",
+    "Lidocaine",
+    "Mepivacaine"
+  ]
+},{
+  "_id": {
+    "$oid": "617c30ec6a957dfb1c7d234b"
+  },
+  "category": "Local anesthetics",
+  "question": "Which of the following local anesthetics is only used for surface or topical anesthesia?",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Cocaine",
+    "Tetracaine",
+    "Procaine",
+    "Bupivacaine"
+  ]
+},{
+  "_id": {
+    "$oid": "617c31096a957dfb1c7d2354"
+  },
+  "category": "Local anesthetics",
+  "question": "Indicate the local anesthetic, which is mainly used for regional nerve block anesthesia:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Dibucaine",
+    "Bupivacaine",
+    "Tetracaine",
+    "Cocaine"
+  ]
+},{
+  "_id": {
+    "$oid": "617c31366a957dfb1c7d235d"
+  },
+  "category": "Local anesthetics",
+  "question": "Which of the following local anesthetics is used for infiltrative and regional anesthesia?",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Procaine",
+    "Lidocaine",
+    "Mepivacaine",
+    "All of the above "
+  ]
+},{
+  "_id": {
+    "$oid": "617c31b56a957dfb1c7d2366"
+  },
+  "category": "Local anesthetics",
+  "question": "Indicate the local anesthetic, which is used for spinal anesthesia:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Tetracaine",
+    "Cocaine",
+    "Dibucaine",
+    "Bupivacaine"
+  ]
+},{
+  "_id": {
+    "$oid": "617c31d66a957dfb1c7d236f"
+  },
+  "category": "Local anesthetics",
+  "question": "Which of the following local anesthetics is called a universal anesthetic?",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Procaine",
+    "Ropivacaine",
+    "Lidocaine",
+    "Bupivacaine"
+  ]
+},{
+  "_id": {
+    "$oid": "617c31fb6a957dfb1c7d2378"
+  },
+  "category": "Local anesthetics",
+  "question": "Most serious toxic reaction to local anesthetics is:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Seizures",
+    "Cardiovascular collapse",
+    "Respiratory failure",
+    "All of the above"
+  ]
+},{
+  "_id": {
+    "$oid": "617c332a6a957dfb1c7d2381"
+  },
+  "category": "Local anesthetics",
+  "question": "Correct statements concerning cocaine include all of the following EXCEPT:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Cocaine is often used for nose and throat procedures",
+    " Limited use because of abuse potential",
+    "Myocardial depression and peripheral vasodilatation ",
+    "Causes sympathetically mediated tachycardia and vasoconstriction"
+  ]
+},{
+  "_id": {
+    "$oid": "617c33a96a957dfb1c7d238d"
+  },
+  "category": "Local anesthetics",
+  "question": "Which of the following local anesthetics is more cardiotoxic?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Procaine",
+    "Bupivacaine",
+    "Lidocaine",
+    "Mepivacaine"
+  ]
+},{
+  "_id": {
+    "$oid": "617c33d26a957dfb1c7d2396"
+  },
+  "category": "Local anesthetics",
+  "question": "Most local anesthetics can cause:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Depression of abnormal cardiac pacemaker activity, excitability, conduction",
+    "Depression of the strength of cardiac contraction",
+    "Cardiovascular collapse",
+    "All of the above "
+  ]
+},{
+  "_id": {
+    "$oid": "617c33f16a957dfb1c7d239f"
+  },
+  "category": "Local anesthetics",
+  "question": "Which one of the following local anesthetics causes methemoglobinemia?",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Prilocaine",
+    "Procaine",
+    "Lidocaine",
+    "Ropivacaine"
+  ]
+},{
+  "_id": {
+    "$oid": "617c34186a957dfb1c7d23a8"
+  },
+  "category": "Local anesthetics",
+  "question": "Procaine has all of the following properties EXCEPT:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    " It has ester linkage",
+    "Its metabolic product can inhibit the action of sulfonamides",
+    "It readily penetrates the skin and mucosa",
+    " It is relatively short-acting"
+  ]
+},{
+  "_id": {
+    "$oid": "617c34526a957dfb1c7d23b1"
+  },
+  "category": "Local anesthetics",
+  "question": "Correct statements concerning lidocaine include all of the following EXCEPT:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    " It is an universal anesthetic",
+    "t has esteratic linkage ",
+    " It widely used as an antiarrhythmic agent",
+    " It is metabolized in liver"
+  ]
+},{
+  "_id": {
+    "$oid": "617c346c6a957dfb1c7d23ba"
+  },
+  "category": "Local anesthetics",
+  "question": "Which of the following local anesthetics is more likely to cause allergic reactions?",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Lidocaine",
+    "Bupivacaine",
+    "Procaine",
+    "Ropivacaine"
+  ]
+},{
+  "_id": {
+    "$oid": "617c34946a957dfb1c7d23c5"
+  },
+  "category": "Local anesthetics",
+  "question": "Tetracaine has all of the following properties EXCEPT:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    " Slow onset",
+    "Low potency ",
+    "Long duration",
+    "High toxicity"
+  ]
+},{
+  "_id": {
+    "$oid": "617c34bd6a957dfb1c7d23ce"
+  },
+  "category": "Local anesthetics",
+  "question": "Correct statements concerning bupivacaine include all of the following EXCEPT:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "It has low cardiotoxicity",
+    "It has amide linkage",
+    "It is a long-acting drug",
+    "An intravenous injection can lead to seizures"
+  ]
+},{
+  "_id": {
+    "$oid": "617cb9fd6a957dfb1c7d23d9"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "Acetylcholine is not a specific neurotransmitter at:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Sympathetic ganglia ",
+    "Sympathetic postganglionic nerve endings",
+    "Parasympathetic ganglia",
+    "Parasympathetic postganglionic nerve endings"
+  ]
+},{
+  "_id": {
+    "$oid": "617cba276a957dfb1c7d23e2"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "Muscarinic receptors are located in:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Autonomic ganglia",
+    "Skeletal muscle neuromuscular junctions",
+    "Autonomic effector cells",
+    "Sensory carotid sinus baroreceptor zone"
+  ]
+},{
+  "_id": {
+    "$oid": "617cbaf76a957dfb1c7d23ec"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "Indicate the location of M2 cholinoreceptor type:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Heart",
+    "Glands",
+    "Smooth muscle",
+    "Endothelium"
+  ]
+},{
+  "_id": {
+    "$oid": "617cbb206a957dfb1c7d23f5"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "The symptoms of mushroom poisoning include all of the following EXCEPT:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Salivation, lacrimation, nausea, vomiting",
+    "Dryness of mouth, hyperpyrexia, hallucination ",
+    "Headache, abdominal colic ",
+    "Bradycardia, hypotension and shock"
+  ]
+},{
+  "_id": {
+    "$oid": "617cbb596a957dfb1c7d23fe"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "Which of the following cholinomimetics activates both muscarinic and nicotinic receptors?",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Lobeline",
+    "Pilocarpine",
+    "Nicotine",
+    "Bethanechol"
+  ]
+},{
+  "_id": {
+    "$oid": "617cbb7f6a957dfb1c7d2407"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "Indicate a cholinomimetic agent, which is related to direct-acting drugs:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Edrophonium",
+    "Physostigmine",
+    "Carbachol",
+    "Isoflurophate"
+  ]
+},{
+  "_id": {
+    "$oid": "617cbba86a957dfb1c7d2411"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "Characteristics of carbachol include all of the following EXCEPT:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "It decreases intraocular pressure",
+    " It causes mydriasis ",
+    " It exerts both nicotinic and muscarinic effects ",
+    "It is resistant to acethylcholiesterase"
+  ]
+},{
+  "_id": {
+    "$oid": "617cbc006a957dfb1c7d241c"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "Acetylcholine is not used in clinical practice because:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "It is very toxic",
+    "The doses required are very high",
+    "It is very rapidly hydrolyzed",
+    "It is very costly"
+  ]
+},{
+  "_id": {
+    "$oid": "617cbd6b6a957dfb1c7d2424"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "Parasympathomimetic drugs cause:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Bronchodilation",
+    "Mydriasis",
+    "Bradycardia",
+    "Constipation"
+  ]
+},{
+  "_id": {
+    "$oid": "617cc0636a957dfb1c7d2431"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "Which of the following direct-acting cholinomimetics is mainly muscarinic in action?",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Bethanechol",
+    "Carbachol",
+    "Acetylcholine",
+    "None of the above "
+  ]
+},{
+  "_id": {
+    "$oid": "617ce9286a957dfb1c7d2439"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": ". Which of the following direct-acting cholinomimetics has the shortest duration of action?",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Acetylcholine",
+    "Methacholine",
+    "Carbachol",
+    "Bethanechol"
+  ]
+},{
+  "_id": {
+    "$oid": "617ce95a6a957dfb1c7d2445"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "Bethanechol has all of the following properties EXCEPT:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "It is extremely resistant to hydrolysis ",
+    "Purely muscarinic in its action",
+    "It is used for abdominal urinary bladder distention ",
+    "It exerts both nicotinic and muscarinic effects"
+  ]
+},{
+  "_id": {
+    "$oid": "617ce9786a957dfb1c7d244e"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "A M-cholinimimetic agent is:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Carbachol",
+    "Pilocarpine",
+    "Acetylcholine",
+    "Bethanechol"
+  ]
+},{
+  "_id": {
+    "$oid": "617ce9ae6a957dfb1c7d245b"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "Characteristics of pilocarpine include all of the following EXCEPT:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "It is a tertiary amine alkaloid",
+    "It causes miosis and a decrease in intraocular pressure",
+    "Causes a decrease in secretory and motor activity of gut",
+    "It is useful in the treatment of glaucoma"
+  ]
+},{
+  "_id": {
+    "$oid": "617ce9cd6a957dfb1c7d2464"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "Which of the following cholinomimetics is a plant derivative with lower potency than nicotine but with a similar spectrum  of action?",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Lobeline",
+    "Pilocarpine",
+    "Carbochol",
+    "Acetylcholine"
+  ]
+},{
+  "_id": {
+    "$oid": "617ceb0d6a957dfb1c7d246d"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "Which of the following cholinomimetics is indirect-acting?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Lobeline",
+    "Edrophonium",
+    "Pilocarpine",
+    "Carbachol"
+  ]
+},{
+  "_id": {
+    "$oid": "617ceb486a957dfb1c7d2479"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "The mechanism of action of indirect-acting cholinomimetic agents is:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Binding to and activation of muscarinic or nicotinic receptors ",
+    "Inhibition of the hydrolysis of endogenous acetylcholine",
+    "Stimulation of the action of acetylcholinesterase ",
+    "Releasing acetylcholine from storage sites "
+  ]
+},{
+  "_id": {
+    "$oid": "617ceb706a957dfb1c7d2482"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "Indicate a reversible cholinesterase inhibitor:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Isoflurophate",
+    "Carbochol",
+    "Physostigmine",
+    "Parathion"
+  ]
+},{
+  "_id": {
+    "$oid": "617cebb16a957dfb1c7d248b"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "Which of the following cholinesterase inhibitors is irreversible?",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Physostigmine",
+    "Edrophonium",
+    "Neostigmine",
+    "Isoflurophate"
+  ]
+},{
+  "_id": {
+    "$oid": "617cebd06a957dfb1c7d2494"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "Indicate cholinesterase activator:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Pralidoxime",
+    "Edrophonium",
+    "Pilocarpine",
+    "Isoflurophate"
+  ]
+},{
+  "_id": {
+    "$oid": "617cec3c6a957dfb1c7d249d"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "Isofluorophate increases all of the following effects except:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Lacrimation",
+    "Bronchodilation",
+    "Muscle twitching ",
+    "Salivation"
+  ]
+},{
+  "_id": {
+    "$oid": "617cec6b6a957dfb1c7d24a6"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "Indicate a cholinesterase inhibitor, which has an additional direct nicotinic agonist effect:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Edrophonium",
+    "Carbochol",
+    "Neostigmine",
+    "Lobeline"
+  ]
+},{
+  "_id": {
+    "$oid": "617cec9f6a957dfb1c7d24af"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "Сholinesterase inhibitors do not produce:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Bradycardia, no change or modest fall in blood pressure",
+    "Increased strength of muscle contraction, especially in muscles weakened by myasthenia gravis ",
+    "Miosis and reduction of intraocular pressure",
+    "Dramatic hypertension and tachycardia"
+  ]
+},{
+  "_id": {
+    "$oid": "617cecbf6a957dfb1c7d24b8"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "Which of the following cholinomimetics is commonly used in the treatment of glaucoma?",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Pilocarpine",
+    "Lobeline",
+    "Acethylcholine",
+    "Neostigmine"
+  ]
+},{
+  "_id": {
+    "$oid": "617cecf56a957dfb1c7d24c3"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "Indicate the organophosphate cholinesterase inhibitor, which can be made up in an aqueous solution for ophthalmic use  and retains its activity within a week:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Physostigmine",
+    "Edrophonium",
+    "Echothiophate",
+    "Neostigmine"
+  ]
+},{
+  "_id": {
+    "$oid": "617ced246a957dfb1c7d24cc"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "Which of the following cholinomimetics is most widely used for paralytic ileus and atony of the urinary bladder?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Lobeline",
+    "Neostigmine",
+    "Pilocarpine",
+    "Echothiophate"
+  ]
+},{
+  "_id": {
+    "$oid": "617ced426a957dfb1c7d24d4"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "Chronic long-term therapy of myasthenia is usually accomplished with:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Edrophonium",
+    "Neostigmine",
+    "Echothiophate",
+    "Carbachol"
+  ]
+},{
+  "_id": {
+    "$oid": "617ced6b6a957dfb1c7d24dd"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "Which of the following cholinomimetics is a drug of choice for reversing the effects of nondepolarizing neuromuscular  relaxants?",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Echothiophate",
+    "Physostigmine",
+    "Edrophonium",
+    "Pilocarpine"
+  ]
+},{
+  "_id": {
+    "$oid": "617ced936a957dfb1c7d24e6"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "Indicate the reversible cholinesterase inhibitor, which penetrates the blood-brain barrier:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Physostigmine",
+    "Edrophonium",
+    "Neostigmine",
+    "Piridostigmine"
+  ]
+},{
+  "_id": {
+    "$oid": "617cedb96a957dfb1c7d24ef"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "Which of the following cholinomimetics is used in the treatment of atropine intoxication?",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Neostigmine",
+    "Carbochol",
+    "Physostigmine",
+    "Lobeline"
+  ]
+},{
+  "_id": {
+    "$oid": "617cf3e26a957dfb1c7d24fb"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "The symptoms of excessive stimulation of muscarinic receptors include all of the following EXCEPT:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Abdominal cramps, diarrhea",
+    "Increased salivation, excessive bronchial secretion",
+    "Miosis, bradycardia",
+    "Weakness of all skeletal muscles"
+  ]
+},{
+  "_id": {
+    "$oid": "617cf4016a957dfb1c7d2504"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "The excessive stimulation of muscarinic receptors by pilocarpine and choline esters is blocked competitively by:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Edrophonium",
+    "Atropine",
+    "Pralidoxime",
+    "Echothiophate"
+  ]
+},{
+  "_id": {
+    "$oid": "617cf42d6a957dfb1c7d250d"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "The toxic effects of a large dose of nicotine include all of the following EXCEPT:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Hypotension and bradycardia",
+    "Convulsions, coma and respiratory arrest",
+    "Skeletal muscle depolarization blockade and respiratory paralysis",
+    "Hypertension and cardiac arrhythmias "
+  ]
+},{
+  "_id": {
+    "$oid": "617cf4516a957dfb1c7d2516"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "The dominant initial sights of acute cholinesterase inhibitors intoxication include all of the following except:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Salivation, sweating",
+    "Mydriasis",
+    "Bronchial constriction",
+    "Vomiting and diarrhea"
+  ]
+},{
+  "_id": {
+    "$oid": "617cf4726a957dfb1c7d251f"
+  },
+  "category": "Cholinomimetic drugs",
+  "question": "Which of the following drugs is used for acute toxic effects of organophosphate cholinesterase inhibitors?",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Atropine",
+    "Pilocarpine",
+    "Pralidoxime",
+    "Edrophonium"
+  ]
+},{
+  "_id": {
+    "$oid": "617cf4a86a957dfb1c7d252a"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "The group of nicotinic receptor-blocking drugs consists of:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Ganglion-blockers",
+    "Atropine-similar drugs",
+    "Neuromuscular junction blockers",
+    "Both a and c"
+  ]
+},{
+  "_id": {
+    "$oid": "617cf4d76a957dfb1c7d2535"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "M3 receptor subtype is located:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "In the myocardium",
+    "In sympathetic postganglionic neurons",
+    "On effector cell membranes of glandular and smooth muscle cells",
+    "On the motor end plates"
+  ]
+},{
+  "_id": {
+    "$oid": "617cf5026a957dfb1c7d253e"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Which of the following drugs is both a muscarinic and nicotinic blocker?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Atropine",
+    "Benztropine",
+    "Hexamethonium",
+    "Succinylcholine"
+  ]
+},{
+  "_id": {
+    "$oid": "617cf5276a957dfb1c7d2547"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Indicate a muscarinic receptor-blocking drug:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Scopolamine",
+    "Pipecuronium",
+    "Trimethaphan",
+    "Pilocarpine"
+  ]
+},{
+  "_id": {
+    "$oid": "617cf5456a957dfb1c7d2550"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Which of the following agents is a ganglion-blocking drug?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Homatropine",
+    "Hexamethonium",
+    "Rapacuronium",
+    "Edrophonium"
+  ]
+},{
+  "_id": {
+    "$oid": "617cf56f6a957dfb1c7d2559"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Indicate the skeletal muscle relaxant, which is a depolarizing agent:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Vencuronium",
+    "Scopolamine",
+    "Succinylcholine",
+    "Hexamethonium"
+  ]
+},{
+  "_id": {
+    "$oid": "617cf58c6a957dfb1c7d2562"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Which of the following drugs is a nondepolarizing muscle relaxant?",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Pancuronium",
+    "Succinylcholine",
+    "Hexamethonium",
+    "Scopolamine"
+  ]
+},{
+  "_id": {
+    "$oid": "617cf5b36a957dfb1c7d256d"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Indicate the drug, which is rapidly and fully distributed into CNS and has a greater effect than most other antimuscarinic  agents?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Atropine",
+    "Scopolamine",
+    "Homatropine",
+    "Ipratropium"
+  ]
+},{
+  "_id": {
+    "$oid": "617cf5d36a957dfb1c7d2576"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "The effect of the drug on parasympathetic function declines rapidly in all organs EXCEPT:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Eye",
+    "Heart",
+    "Smooth muscle organs",
+    "Glands"
+  ]
+},{
+  "_id": {
+    "$oid": "617cf9066a957dfb1c7d2580"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "The mechanism of atropine action is:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Competitive ganglion blockade",
+    "Competitive muscarinic blockade",
+    "Competitive neuromuscular blockade ",
+    "Noncompetitive neuromuscular blockade"
+  ]
+},{
+  "_id": {
+    "$oid": "617cfc406a957dfb1c7d258b"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "The tissues most sensitive to atropine are:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "The salivary, bronchial and sweat glands",
+    "The gastric parietal cells ",
+    "Smooth muscle and autonomic effectors",
+    "The heart"
+  ]
+},{
+  "_id": {
+    "$oid": "617cfc6b6a957dfb1c7d2597"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Atropine is highly selective for:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "M1 receptor subtype",
+    " M2 receptor subtype",
+    "M3 receptor subtype",
+    "All of the above "
+  ]
+},{
+  "_id": {
+    "$oid": "617cfc8c6a957dfb1c7d25a0"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Which of the following antimuscarinic drugs is often effective in preventing or reversing vestibular disturbances,  especially motion sickness?",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Atropine",
+    "Ipratropium",
+    "Scopolamine",
+    "Homatropine"
+  ]
+},{
+  "_id": {
+    "$oid": "617cfcc06a957dfb1c7d25aa"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Atropine causes:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Miosis, a reduction in intraocular pressure and cyclospasm",
+    "Mydriasis, a rise in intraocular pressure and cycloplegia",
+    "Miosis, a rise in intraocular pressure and cycloplegia",
+    "Mydriasis, a rise in intraocular pressure and cyclospasm"
+  ]
+},{
+  "_id": {
+    "$oid": "617cfce26a957dfb1c7d25b3"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Patients complain of dry or “sandy” eyes when receiving large doses of:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Atropine",
+    "Hexamethonium",
+    "Pilocarpine",
+    "Carbachol"
+  ]
+},{
+  "_id": {
+    "$oid": "617cfd0a6a957dfb1c7d25be"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "All of the following parts of the heart are very sensitive to muscarinic receptor blockade except:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Atria",
+    "Sinoatrial node",
+    "Atrioventricular node",
+    "Ventricle"
+  ]
+},{
+  "_id": {
+    "$oid": "617cfd3c6a957dfb1c7d25ca"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Atropine causes:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Bradycardia, hypotension and bronchoconstriction",
+    "Tachycardia, little effect on blood pressure and bronchodilation",
+    "Decrease in contractile strength, conduction velocity through the AV node",
+    "Tachycardia, hypertensive crisis and bronchodilation"
+  ]
+},{
+  "_id": {
+    "$oid": "617cfd616a957dfb1c7d25d2"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Atropine is frequently used prior to administration of inhalant anesthetics to reduce:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Muscle tone",
+    "Secretions",
+    "Nausea and vomiting",
+    "All of the above"
+  ]
+},{
+  "_id": {
+    "$oid": "617cfdc86a957dfb1c7d25dc"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Atropine is now rarely used for the treatment of peptic ulcer because of:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Slow gastric empting and prolongation of the exposure of the ulcer bed to acid ",
+    "Low efficiency and necessity of large doses",
+    "Adverse effects",
+    "All of the above"
+  ]
+},{
+  "_id": {
+    "$oid": "617cfde86a957dfb1c7d25e5"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Which of the following antimuscarinic drugs is a selective M1 blocker?",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Atropine",
+    "Scopolamine",
+    "Pirenzepine",
+    "Homatropine"
+  ]
+},{
+  "_id": {
+    "$oid": "617cfe196a957dfb1c7d25f2"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Atropine causes:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Spasmolitic activity",
+    "Intestinal hypermotility ",
+    "Stimulation of contraction in the gut ",
+    "Stimulation of secretory activity"
+  ]
+},{
+  "_id": {
+    "$oid": "617d4d1d6a957dfb1c7d25fb"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Which of the following drugs is useful in the treatment of uterine spasms?",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Carbachol",
+    "Vecuronium",
+    "Atropine",
+    "Edrophonium"
+  ]
+},{
+  "_id": {
+    "$oid": "617d4d4e6a957dfb1c7d2607"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Atropine may cause a rise in body temperature (atropine fever):",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "In adults",
+    "In pregnant women",
+    "In infants and children",
+    "All of the above"
+  ]
+},{
+  "_id": {
+    "$oid": "617d4d6e6a957dfb1c7d2610"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "The pharmacologic actions of scopolamine most closely resemble those of:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Hexamethonium",
+    "Atropine",
+    "Succinylcholine",
+    "Pilocarpine"
+  ]
+},{
+  "_id": {
+    "$oid": "617d4d946a957dfb1c7d2618"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Compared with atropine, scopolamine has all of the following properties EXCEPT:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "More marked central effect",
+    " Less potent in decreasing bronchial, salivary and sweat gland secretion ",
+    "More potent in producing mydriasis and cycloplegia",
+    " Lower effects on the heart, bronchial muscle and intestines"
+  ]
+},{
+  "_id": {
+    "$oid": "617d4db66a957dfb1c7d2621"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Which of the following drugs is useful in the treatment of Parkinson′s disease?",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Benztropine",
+    "Edrophonium",
+    "Succinylcholine",
+    "Hexamethonium"
+  ]
+},{
+  "_id": {
+    "$oid": "617d4dd26a957dfb1c7d262a"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Indicate the antimuscarinic drug, which is used as a mydriatic:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Pilocarpine",
+    "Neostigmine",
+    "Homatropine",
+    "Ipratropium"
+  ]
+},{
+  "_id": {
+    "$oid": "617d4df06a957dfb1c7d2633"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Which of the following agents is used as an inhalation drug in asthma?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Atropine",
+    "Ipratropium",
+    "Lobeline",
+    "Homatropine"
+  ]
+},{
+  "_id": {
+    "$oid": "617d4e096a957dfb1c7d263b"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Which of the following agents is most effective in regenerating cholinesterase associated with skeletal muscle  neuromuscular junctions?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Suscinilcholine",
+    "Pralidoxime",
+    "Pirenzepine",
+    "Propiverine"
+  ]
+},{
+  "_id": {
+    "$oid": "617d4e246a957dfb1c7d2644"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Indicate an antimuscarinic drug, which is effective in the treatment of mushroom poising:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Pralidoxime",
+    "Pilocarpine",
+    "Homatropine",
+    "Atropine"
+  ]
+},{
+  "_id": {
+    "$oid": "617d4e446a957dfb1c7d264e"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Antimuscarinics are used in the treatment of the following disorders EXCEPT:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Motion sickness",
+    "Glaucoma",
+    "Hyperhidrosis",
+    "Asthma"
+  ]
+},{
+  "_id": {
+    "$oid": "617d4e6d6a957dfb1c7d2659"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "The atropine poisoning includes all of the following symptoms EXCEPT:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Mydriasis, cycloplegia",
+    "Hyperthermia, dry mouth, hot and flushed skin ",
+    "Agitation and delirium ",
+    "Bradicardia, orthostatic hypotension "
+  ]
+},{
+  "_id": {
+    "$oid": "617d4e8c6a957dfb1c7d2664"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "The treatment of the antimuscarinic effects can be carried out with:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Neostigmine",
+    "Hexametonium",
+    "Homatropine",
+    "Acetylcholine"
+  ]
+},{
+  "_id": {
+    "$oid": "617d4ead6a957dfb1c7d266d"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Contraindications to the use of antimuscarinic drugs are all of the following except:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Glaucoma",
+    "Myasthenia",
+    "Bronchial asthma",
+    "Paralytic ileus and atony of the urinary bladder"
+  ]
+},{
+  "_id": {
+    "$oid": "617d4ee26a957dfb1c7d2675"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Hexamethonium blocks the action of acethylcholine and similar agonists at:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Muscarinic receptor site",
+    "Neuromuscular junction",
+    "Autonomic ganglia",
+    "Axonal transmission"
+  ]
+},{
+  "_id": {
+    "$oid": "617d4f106a957dfb1c7d2682"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "The applications of the ganglion blockers have disappeared because of all of the following reasons EXCEPT:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Orthostatic hypotension",
+    "Lack of selectivity",
+    "Homeostatic reflexes block",
+    "Respiratory depression "
+  ]
+},{
+  "_id": {
+    "$oid": "617d775a6a957dfb1c7d268f"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Which of the following agents is a short-acting ganglion blocker?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Homatropine",
+    "Trimethaphane",
+    "Hexamethonium",
+    "Pancuronium"
+  ]
+},{
+  "_id": {
+    "$oid": "617d77a46a957dfb1c7d2699"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Indicate the ganglion-blocking drug, which can be taken orally for the treatment of hypertension?",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Mecamylamine",
+    "Scopolamine",
+    "Trimethaphane",
+    "Vecocuronium"
+  ]
+},{
+  "_id": {
+    "$oid": "617d77ea6a957dfb1c7d26a2"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "The systemic effects of hexamethonium include all of the following EXCEPT:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Reduction of both peripheral vascular resistance and venous return",
+    "Partial mydriasis and loss of accommodation ",
+    "Constipation and urinary retention",
+    "Stimulation of thermoregulatory sweating"
+  ]
+},{
+  "_id": {
+    "$oid": "617d78296a957dfb1c7d26ab"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Ganglion blocking drugs are used for the following emergencies EXCEPT:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Hypertensive crises ",
+    "Controlled hypotension",
+    "Cardiovascular collapse",
+    "Pulmonary edema"
+  ]
+},{
+  "_id": {
+    "$oid": "617d7a0f6a957dfb1c7d26b8"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Agents that produce neuromuscular blockade act by inhibiting:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Interaction of acetylcholine with cholinergic receptors",
+    "Release of acetylcholine from prejunctional membrane ",
+    "Packaging of acetylcholine into synaptic vesicles ",
+    "Reuptake of acetylcholine into the nerve ending"
+  ]
+},{
+  "_id": {
+    "$oid": "617d7a2d6a957dfb1c7d26c1"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Skeletal muscle relaxation and paralysis can occur from interruption of functions at several sites, including all of the  following EXCEPT:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    " Nicotinic acethylcholine receptors ",
+    "Muscarinic acethylcholine receptors ",
+    "The motor end plate",
+    "Contractile apparatus"
+  ]
+},{
+  "_id": {
+    "$oid": "617e76336a957dfb1c7d26cb"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Nondepolarisation neuromuscular blocking agents:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Block acetylcholine reuptake",
+    "Prevent access of the transmitter to its receptor and depolarization",
+    "Block transmission by an excess of a depolarizing agonist ",
+    "All of the above"
+  ]
+},{
+  "_id": {
+    "$oid": "617e76506a957dfb1c7d26d4"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Which of the following drugs has “double-acetylcholine” structure?",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Rocuronium",
+    "Carbachol",
+    "Atracurium",
+    "Succylcholine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e766b6a957dfb1c7d26dd"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Indicate the long-acting neuromuscular blocking agent:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Rapacuronium",
+    "Mivacurium",
+    "Tubocurarine",
+    "Rocuronium"
+  ]
+},{
+  "_id": {
+    "$oid": "617e76866a957dfb1c7d26e6"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Which of the following neuromuscular blocking drugs is an intermediate-duration muscle relaxant?",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Vecuronium",
+    "Tubocurarine",
+    "Pancuronium",
+    "Rapacuronium"
+  ]
+},{
+  "_id": {
+    "$oid": "617e76a56a957dfb1c7d26ef"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Indicate the nondepolarizing agent, which has the fastest onset of effect?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Succinylcholine",
+    "Rapacuronium",
+    "Pancuronium",
+    "Tubocurarine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e76c76a957dfb1c7d26f8"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Indicate the neuromuscular blocker, whose breakdown product readily crosses the blood-brain barrier and may cause  seizures:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Pancuronium",
+    "Succinylcholine",
+    "Tubocurarine",
+    "Atracurium"
+  ]
+},{
+  "_id": {
+    "$oid": "617e76eb6a957dfb1c7d2701"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Which competitive neuromuscular blocking agent could be used in patients with renal failure?",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Atracurium",
+    "Succinylcholine",
+    "Pipecuronium",
+    "Doxacurium"
+  ]
+},{
+  "_id": {
+    "$oid": "617e77086a957dfb1c7d270a"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Indicate the nondepolarizing agent, which has short duration of action:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Succinylcholine",
+    "Tubocurarine",
+    "Mivacurium",
+    "Pancuronium"
+  ]
+},{
+  "_id": {
+    "$oid": "617e77396a957dfb1c7d2713"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Which depolarizing agent has the extremely brief duration of action?",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Mivacurium",
+    "Rapacuronium",
+    "Rocuronium",
+    "Succinylcholine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e78256a957dfb1c7d271d"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Neuromuscular blockade by both succinylcholine and mivacurium may be prolonged in patients with:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Renal failure",
+    "An abnormal variant of plasma cholinesterase ",
+    "Hepatic disease ",
+    "Both b and c"
+  ]
+},{
+  "_id": {
+    "$oid": "617e78a96a957dfb1c7d2726"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Depolarizing agents include all of the following properties EXCEPT:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Interact with nicotinic receptor to compete with acetylcholine without receptor activation",
+    "React with the nicotinic receptor to open the channel and cause depolarisation of the end plate ",
+    "Cause desensitization, noncompetive block manifested by flaccid paralysis",
+    "Cholinesterase inhibitors do not have the ability to reverse the blockade"
+  ]
+},{
+  "_id": {
+    "$oid": "617e78c86a957dfb1c7d272f"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Which of the following neuromuscular blockers causes transient muscle fasciculations?",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Mivacurium",
+    "Pancuronium",
+    "Succinylcholine",
+    "Tubocurarine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e78f86a957dfb1c7d2738"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Indicate muscles, which are more resistant to block and recover more rapidly:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Hand",
+    "Leg",
+    "Neck",
+    "Diaphragm"
+  ]
+},{
+  "_id": {
+    "$oid": "617e79176a957dfb1c7d2741"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Which neuromuscular blocking agent has the potential to cause the greatest release of histamine?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Succylcholine",
+    "Tubocurarine",
+    "Pancuronium",
+    "Rocuronium"
+  ]
+},{
+  "_id": {
+    "$oid": "617e79346a957dfb1c7d274a"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Which of the following muscular relaxants causes hypotension and bronchospasm?",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Vecuronium",
+    "Succinylcholine",
+    "Tubocurarine",
+    "Rapacuronium"
+  ]
+},{
+  "_id": {
+    "$oid": "617e795d6a957dfb1c7d2752"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Indicate the neuromuscular blocker, which causes tachycardia:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Tubocurarine",
+    "Atracurium",
+    "Pancuronium",
+    "Succinylcholine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e797f6a957dfb1c7d275b"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Which of the following neuromuscular blocking agents cause cardiac arrhythmias?",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Vecuronium",
+    "Tubocurarine",
+    "Rapacuronium",
+    "Succinylcholine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e799e6a957dfb1c7d2764"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Effects seen only with depolarizing blockade include all of the following EXCEPT:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Hypercaliemia",
+    "A decrease in intraocular pressure ",
+    "Emesis",
+    "Muscle pain "
+  ]
+},{
+  "_id": {
+    "$oid": "617e79c26a957dfb1c7d276c"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Which neuromuscular blocking agent is contraindicated in patients with glaucoma?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Tubocurarine",
+    "Succinylcholine",
+    "Pancuronium",
+    "Gallamine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e79e46a957dfb1c7d2775"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Indicate the following neuromuscular blocker, which would be contraindicated in patients with renal failure:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Pipecuronium",
+    "Succinylcholine",
+    "Atracurium",
+    "Rapacuronium"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7a106a957dfb1c7d277f"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "All of the following drugs increase the effects of depolarizing neuromuscular blocking agents EXCEPT:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Aminoglycosides",
+    "Antiarrhythmic drugs",
+    " Nondepolarizing blockers",
+    "Local anesthetics"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7a316a957dfb1c7d2788"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Which of the following diseases can augment the neuromuscular blockade produced by nondepolarizing muscle  relaxants?",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Myasthenia gravis ",
+    "Burns",
+    "Asthma",
+    "Parkinsonism"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7a4e6a957dfb1c7d2791"
+  },
+  "category": "Cholinoreceptor blocking drugs",
+  "question": "Indicate the agent, which effectively antagonizes the neuromuscular blockade caused by nondepolarizing drugs:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Atropine",
+    "Neostigmine",
+    "Acetylcholine",
+    "Pralidoxime"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7a826a957dfb1c7d279b"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Sympathetic stimulation is mediated by:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Release of norepinephrine from nerve terminals",
+    "Activation of adrenoreceptors on postsynaptic sites",
+    "Release of epinephrine from the adrenal medulla",
+    "All of the above"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7aa96a957dfb1c7d27a6"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Characteristics of epinephrine include all of the following EXCEPT:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "It is synthesized into the adrenal medulla",
+    " It is synthesized into the nerve ending",
+    "It is transported in the blood to target tissues",
+    "It directly interacts with and activates adrenoreceptors "
+  ]
+},{
+  "_id": {
+    "$oid": "617e7ac86a957dfb1c7d27af"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Which of the following sympathomimetics acts indirectly?",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Epinephrine",
+    "Norepinephrine",
+    "Ephedrine",
+    "Methoxamine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7afd6a957dfb1c7d27b9"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Indirect action includes all of the following properties EXCEPT:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Displacement of stored catecholamines from the adrenergic nerve ending",
+    "Inhibition of reuptake of catecholamines already released",
+    "Interaction with adrenoreceptors ",
+    "Inhibition of the release of endogenous catecholamines from peripheral adrenergic neurons"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7b216a957dfb1c7d27c4"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Catecholamine includes following EXCEPT:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Ephedrine",
+    "Epinephrine",
+    "Isoprenaline",
+    "Norepinephrine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7b4c6a957dfb1c7d27cd"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Epinephrine decreases intracellular camp levels by acting on:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "α1 receptor",
+    "α2 receptor",
+    "beta1 receptor",
+    " beta2 receptor"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7b756a957dfb1c7d27d6"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Which of the following statements is not correct?",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "ALFA receptors increase arterial resistence, whereas beta2 receptor promote smooth muscle relaxation",
+    "The skin and splanchic vessels have predominantly alfa receptors ",
+    "Vessels in a skeletal muscle may constrict or dilate depending on whether alfa or beta2 receptors are activated ",
+    "Skeletal muscle vessels have predominantly alfa receptors and constrict in the presence of epinephrine and  norepinephrine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7baa6a957dfb1c7d27df"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Direct effects on the heart are determined largely by:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Alfa1 receptor",
+    "Alfa2 receptor",
+    "Beta1 receptor",
+    " Beta2 receptor"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7bc96a957dfb1c7d27ea"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Which of the following effects is related to direct beta1-adrenoreceptor stimulation?",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Bronchodilation",
+    "Vasodilatation",
+    "Tachycardia",
+    "Bradycardia"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7beb6a957dfb1c7d27f3"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Distribution of alfa adrenoreceptor subtypes is associated with all of the following tissues except those of:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Heart",
+    "Blood vessels",
+    "Prostate",
+    "Pupillary dilator muscle"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7c0b6a957dfb1c7d27fc"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Beta adrenoreceptor subtypes is contained in all of the following tissues EXCEPT:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Bronchial muscles",
+    "Heart",
+    " Pupillary dilator muscle",
+    "Fat cells"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7c316a957dfb1c7d2806"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "In which of the following tissues both alfa and beta1 adrenergic stimulation produces the same effect?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Blood vessels",
+    "Intestine",
+    "Uterus",
+    "Bronchial muscles"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7c576a957dfb1c7d280f"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "The effects of sympathomimetics on blood pressure are associated with their effects on:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "The heart",
+    "The peripheral resistance",
+    "The venous return",
+    "All of the above"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7c7c6a957dfb1c7d2818"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "A relatively pure alfa agonist causes all of the following effects EXCEPT:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Increase peripheral arterial resistance",
+    "Increase venous return ",
+    "Has no effect on blood vessels",
+    "Reflex bradycardia "
+  ]
+},{
+  "_id": {
+    "$oid": "617e7cb86a957dfb1c7d2824"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "A nonselective beta receptor agonist causes all of the following effects EXCEPT:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Increase cardiac output",
+    "Increase peripheral arterial resistance",
+    "Decrease peripheral arterial resistance ",
+    "Decrease the mean pressure "
+  ]
+},{
+  "_id": {
+    "$oid": "617e7ce56a957dfb1c7d282e"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Which of the following statement is not correct?",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Αlfa agonists cause miosis",
+    "Αlfa agonists cause mydriasis",
+    "Beta antagonists decrease the production of aqueous humor",
+    "Αlfa agonists increase the outflow of aqueous humor from the eye"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7d1e6a957dfb1c7d2839"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "A bronchial smooth muscle contains:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Αlfa1 receptor",
+    "Αlfa2 receptor",
+    "Beta 1 receptor",
+    "Beta 2 receptor"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7d466a957dfb1c7d2842"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "All of the following agents are beta receptor agonists EXCEPT:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Epinephrine",
+    "Isoproterenol",
+    "Methoxamine",
+    "Dobutamine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7d666a957dfb1c7d284b"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Which of the following drugs causes bronchodilation without significant cardiac stimulation?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Isoprenaline",
+    "Terbutaline",
+    "Xylometazoline",
+    "Methoxamine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7d8f6a957dfb1c7d2854"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Αlfa-receptor stimulation includes all of the following effects EXCEPT:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Relaxation of gastrointestinal smooth muscle",
+    "Contraction of bladder base, uterus and prostate ",
+    "Stimulation of insulin secretion",
+    "Stimulation of platelet aggregation "
+  ]
+},{
+  "_id": {
+    "$oid": "617e7db26a957dfb1c7d285e"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Beta1 receptor stimulation includes all of the following effects EXCEPT:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Increase in contractility",
+    "Bronchodilation",
+    "Tachycardia",
+    "Increase in conduction velocity in the atrioventricular node"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7dd96a957dfb1c7d2868"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Beta2 receptor stimulation includes all of the following effects EXCEPT:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Stimulation of renin secretion",
+    "Fall of potassium concentration in plasma",
+    "Relaxation of bladder, uterus",
+    "Tachycardia"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7e1e6a957dfb1c7d2872"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Hyperglycemia induced by epinephrine is due to:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Gluconeogenesis (beta2) ",
+    "Inhibition of insulin secretion (alfa) ",
+    "Stimulation of glycogenolysis (beta2)",
+    "All of the above "
+  ]
+},{
+  "_id": {
+    "$oid": "617e7e416a957dfb1c7d287b"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Which of the following effects is associated with beta3-receptor stimulation?",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Lipolysis",
+    "Decrease in platelet aggregation",
+    "Bronchodilation",
+    "Tachycardia"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7e726a957dfb1c7d2888"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Which of the following statements is not correct?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Epinephrine acts on both alfa- and beta-receptors",
+    "Norepinephrine has a predominantly beta action",
+    "Methoxamine has a predominantly alfa action",
+    "Isoprenaline has a predominantly beta action"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7e966a957dfb1c7d2891"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Indicate the drug, which is a direct-acting both alfa- and beta-receptor agonist:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Norepinephrine",
+    "Methoxamine",
+    "Isoproterenol",
+    "Ephedrine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7eb36a957dfb1c7d289a"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Which of the following agents is an alfa1 alfa2 beta1 beta2 receptor agonist?",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Methoxamine",
+    "Albuterol",
+    "Epinephrine",
+    "Norepinephrine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7edb6a957dfb1c7d28a3"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Indicate the direct-acting sympathomimetic, which is an alfa1 alfa2 beta1 receptor agonist:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Isoproterenol",
+    "Ephedrine",
+    "Dobutamine",
+    "Norepinephrine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7efa6a957dfb1c7d28ac"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Which of the following agents is an alfa1-selective agonist?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Norepinephrine",
+    "Methoxamine",
+    "Ritodrine",
+    "Ephedrine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7f1c6a957dfb1c7d28b5"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Indicate the alfa2-selective agonist:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Xylometazoline",
+    "Epinephrine",
+    "Dobutamine",
+    "Methoxamine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7f3b6a957dfb1c7d28be"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Which of the following agents is a nonselective beta receptor agonist?",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Norepinephrine",
+    "Terbutaline",
+    "Isoproterenol",
+    "Dobutamine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7f5a6a957dfb1c7d28c7"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Indicate the beta1-selective agonist:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Isoproterenol",
+    "Dobutamine",
+    "Metaproterenol",
+    "Epinephrine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7f836a957dfb1c7d28d0"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Which of the following sympathomimetics is a beta2-selective agonist?",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Terbutaline",
+    "Xylometazoline",
+    "Isoproterenol",
+    "Dobutamine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7f9f6a957dfb1c7d28d9"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Indicate the indirect-acting sympathomimetic agent:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Epinephrine",
+    "Phenylephrine",
+    "Ephedrine",
+    "Isoproterenol"
+  ]
+},{
+  "_id": {
+    "$oid": "617e7fdd6a957dfb1c7d28e2"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Epinephrine produces all of the following effects EXCEPT:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Positive inotropic and chronotropic actions on the heart (beta1 receptor)",
+    "Increase peripheral resistance (alfa receptor)",
+    "Predominance of alfa effects at low concentration",
+    "Skeletal muscle blood vessel dilatation (beta2 receptor)"
+  ]
+},{
+  "_id": {
+    "$oid": "617e80066a957dfb1c7d28ec"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Epinephrine produces all of the following effects EXCEPT:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Decrease in oxygen consumption",
+    "Bronchodilation",
+    "Hyperglycemia",
+    "Mydriasis"
+  ]
+},{
+  "_id": {
+    "$oid": "617e802a6a957dfb1c7d28f6"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Epinephrine is used in the treatment of all of the following disorders EXCEPT:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Bronchospasm",
+    "Anaphylactic shock",
+    "Cardiac arrhythmias ",
+    "Open-angle glaucoma"
+  ]
+},{
+  "_id": {
+    "$oid": "617e80526a957dfb1c7d2900"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Compared with epinephrine, norepinephrine produces all of the following effects EXCEPT:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Similar effects on beta1 receptors in the heart and similar potency at an alfa receptor",
+    " Decrease the mean pressure below normal before returning to the control value",
+    "Significant tissue necrosis if injected subcutaneously",
+    "Increase both diastolic and systolic blood pressure"
+  ]
+},{
+  "_id": {
+    "$oid": "617e806f6a957dfb1c7d2909"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Norepinephrine produces:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Vasoconstriction",
+    "Vasodilatation",
+    "Bronchodilation",
+    "Decresed potassium concentration in the plasma"
+  ]
+},{
+  "_id": {
+    "$oid": "617e80916a957dfb1c7d2912"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Which of the following direct-acting drugs is a relatively pure alfa agonist, an effective mydriatic and decongestant and  can be used to raise blood pressure?",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Epinephrine",
+    "Norepinephrine",
+    "Phenylephrine",
+    "Ephedrine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e80c66a957dfb1c7d291f"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Characteristics of methoxamine include all of the following EXCEPT:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "It is a direct-acting alfa1-receptor agonist",
+    "It increases heart rate, contractility and cardiac output",
+    "It causes reflex bradycardia",
+    "It increases total peripheral resistance"
+  ]
+},{
+  "_id": {
+    "$oid": "617e80ec6a957dfb1c7d2928"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Which of the following agents is an alfa2-selective agonist with ability to promote constriction of the nasal mucosa?",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Xylometazoline",
+    "Phenylephrine",
+    "Methoxamine",
+    "Epinephrine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e81166a957dfb1c7d2933"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Indicate the sympathomimetic, which may cause hypotension, presumably because of a clonidine-like effect:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Methoxamine",
+    "Phenylephrine",
+    "Xylometazoline",
+    "Isoproterenol"
+  ]
+},{
+  "_id": {
+    "$oid": "617e813b6a957dfb1c7d293c"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Isoproterenol is:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Both an alfa- and beta-receptor agonist",
+    " beta1-selective agonist",
+    "beta2-selective agonist",
+    "Nonselective beta receptor agonist"
+  ]
+},{
+  "_id": {
+    "$oid": "617e81656a957dfb1c7d2946"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Isoproterenol produces all of the following effects EXCEPT:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Increase in cardiac output",
+    "Fall in diastolic and mean arterial pressure",
+    "Bronchoconstriction",
+    "Tachycardia"
+  ]
+},{
+  "_id": {
+    "$oid": "617e81926a957dfb1c7d2951"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Characteristics of dobutamine include all of the following EXCEPT:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "It is a relatively beta1-selective synthetic catecholamine ",
+    "It is used to treat bronchospasm",
+    "It increases atrioventricular conduction",
+    "It causes minimal changes in heart rate and systolic pressure"
+  ]
+},{
+  "_id": {
+    "$oid": "617e81c86a957dfb1c7d295c"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Characteristics of salmeterol include all of the following EXCEPT:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "It is a potent selective beta2 agonist ",
+    "It causes uterine relaxation",
+    "It stimulates heart rate, contractility and cardiac output",
+    "It is used in the therapy of asthma "
+  ]
+},{
+  "_id": {
+    "$oid": "617e81ea6a957dfb1c7d2965"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Characteristics of ephedrine include all of the following EXCEPT:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "It acts primarily through the release of stored cathecholamines ",
+    " It is a mild CNS stimulant",
+    " It causes tachyphylaxis with repeated administration ",
+    " It decreases arterial pressure"
+  ]
+},{
+  "_id": {
+    "$oid": "617e821a6a957dfb1c7d296f"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Ephedrine causes:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Miosis",
+    "Bronchodilation",
+    "Hypotension",
+    "Bradycardia"
+  ]
+},{
+  "_id": {
+    "$oid": "617e82456a957dfb1c7d2978"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Compared with epinephrine, ephedrine produces all of the following features EXCEPT:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "It is a direct-acting sympathomimetic",
+    "It has oral activity",
+    "It is resistant to MAO and has much longer duration of action",
+    "Its effects are similar, but it is less potent"
+  ]
+},{
+  "_id": {
+    "$oid": "617e82646a957dfb1c7d2981"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Which of the following sympathomimetics is preferable for the treatment of chronic orthostatic hypotension?",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Epinephrine",
+    "Norepinephrine",
+    "Ephedrine",
+    "Salmeterol"
+  ]
+},{
+  "_id": {
+    "$oid": "617e828e6a957dfb1c7d298c"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Indicate the sympathomimetic drug, which is used in a hypotensive emergency:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Xylometazoline",
+    "Ephedrine",
+    "Terbutaline",
+    "Phenylephrine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e84856a957dfb1c7d2995"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Which of the following sympathomimetics is preferable for the emergency therapy of cardiogenic shock?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Epinephrine",
+    "Dobutamine",
+    "Isoproterenol",
+    "Methoxamine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e84b76a957dfb1c7d299e"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Indicate the sympathomimetic agent, which is combined with a local anesthetic to prolong the duration of infiltration  nerve block:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Epinephrine",
+    "Xylometazoline",
+    "Isoproterenol",
+    "Dobutamine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e84d46a957dfb1c7d29a7"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Which of the following sympathomimetics is related to short-acting topical decongestant agents?",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Xylometazoline",
+    "Terbutaline",
+    "Phenylephrine",
+    "Norepinephrine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e84fc6a957dfb1c7d29b0"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Indicate the long-acting topical decongestant agents:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Epinephrine",
+    "Norepinephrine",
+    "Phenylephrine",
+    "Xylometazoline "
+  ]
+},{
+  "_id": {
+    "$oid": "617e853d6a957dfb1c7d29b9"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Which of the following topical decongestant agents is an alfa2-selective agonist?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Phenylephrine",
+    "Xylometazoline",
+    "Ephedrine",
+    "Epinephrine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e85616a957dfb1c7d29c2"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Indicate the sympathomimetic, which may be useful in the emergency management of cardiac arrest:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Methoxamine",
+    "Phenylephrine",
+    "Epinephrine",
+    "Xylometazoline"
+  ]
+},{
+  "_id": {
+    "$oid": "617e85826a957dfb1c7d29cb"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Which of the following sympathomimetics is used in the therapy of bronchial asthma?",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Formoterol",
+    "Norepinephrine",
+    "Methoxamine",
+    "Dobutamine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e85a76a957dfb1c7d29d4"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Indicate the agent of choice in the emergency therapy of anaphylactic shock:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Methoxamine",
+    "Terbutaline",
+    "Norepinephrine",
+    "Epinephrine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e85c86a957dfb1c7d29dd"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Which of the following sympathomimetics is an effective mydriatic?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Salmeterol",
+    "Phenylephrine",
+    "Dobutamine",
+    "Norepinephrine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e85f66a957dfb1c7d29e7"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "The adverse effects of sympathomimetics include all of the following EXCEPT:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Drug-induced parkinsonism",
+    "Cerebral hemorrhage or pulmonary edema",
+    "Myocardial infarction",
+    "Ventricular arrhythmias"
+  ]
+},{
+  "_id": {
+    "$oid": "617e86436a957dfb1c7d29f3"
+  },
+  "category": "Adrenoreceptor antagonist drugs",
+  "question": "Which of the following drugs is a nonselective alfa receptor antagonist?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Prazosin",
+    "Phentolamine",
+    "Metoprolol",
+    "Reserpine"
+  ]
+},{
+  "_id": {
+    "$oid": "617e86696a957dfb1c7d29fc"
+  },
+  "category": "Adrenoreceptor antagonist drugs",
+  "question": "Indicate the alfa1-selective antagonist:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Phentolamine",
+    "Dihydroergotamine",
+    "Prazosin",
+    "Labetalol"
+  ]
+},{
+  "_id": {
+    "$oid": "617e86916a957dfb1c7d2a05"
+  },
+  "category": "Adrenoreceptor antagonist drugs",
+  "question": "Which of the following agents is an alfa2–selective antagonist?",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Yohimbine",
+    "Tamsulosin",
+    "Tolazoline",
+    "Prazosin"
+  ]
+},{
+  "_id": {
+    "$oid": "617e86e56a957dfb1c7d2a0e"
+  },
+  "category": "Adrenoreceptor antagonist drugs",
+  "question": "Indicate the irreversible alfa receptor antagonist:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Tolazoline",
+    "Labetalol",
+    "Prazosin",
+    "Phenoxybenzamine"
+  ]
+},{
+  "_id": {
+    "$oid": "6183741019961ab7ce6e3ce1"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Which of the following drugs is an nonselective beta receptor antagonist?",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Metoprolol",
+    "Atenolol",
+    "Propranolol",
+    "Acebutolol"
+  ]
+},{
+  "_id": {
+    "$oid": "6183743719961ab7ce6e3cec"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Indicate the beta1-selective antagonist:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Propranolol",
+    "Metoprolol",
+    "Carvedilol",
+    "Sotalol"
+  ]
+},{
+  "_id": {
+    "$oid": "6183745019961ab7ce6e3cf5"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Which of the following agents is a beta2–selective antagonist?",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Tolazolin",
+    "Pindolol",
+    "Ergotamin",
+    "Butoxamine"
+  ]
+},{
+  "_id": {
+    "$oid": "6183746d19961ab7ce6e3cfe"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Indicate the beta adrenoreceptor antagonist, which has partial beta–agonist activity:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Propranolol",
+    "Metoprolol",
+    "Pindolol",
+    "Betaxolol"
+  ]
+},{
+  "_id": {
+    "$oid": "6183749619961ab7ce6e3d09"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Which of the following drugs is a reversible nonselective alfa, beta antagonist?",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Labetalol",
+    "Phentolamine",
+    "Metoprolol",
+    "Propranolol"
+  ]
+},{
+  "_id": {
+    "$oid": "618374b419961ab7ce6e3d12"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Indicate the indirect-acting adrenoreceptor blocking drug:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Tolazoline",
+    "Reserpine",
+    "Carvedilol",
+    "Prazosin"
+  ]
+},{
+  "_id": {
+    "$oid": "618374e119961ab7ce6e3d1c"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "The principal mechanism of action of adrenoreceptor antagonists is:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Reversible or irreversible interaction with adrenoreceptors",
+    "Depletion of the storage of catecholamines",
+    "Blockade of the amine reuptake pumps ",
+    "Nonselective MAO inhibition "
+  ]
+},{
+  "_id": {
+    "$oid": "6183752f19961ab7ce6e3d25"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Characteristics of alfa-receptor antagonists include all of the following EXCEPT:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "They cause a fall in peripheral resistance and blood pressure",
+    "They cause epinephrine reversal (convert a pressor response to a depressor response) ",
+    "Bronchospasm",
+    "Bronchospasm"
+  ]
+},{
+  "_id": {
+    "$oid": "6183754819961ab7ce6e3d2e"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Which of the following drugs is an imidazoline derivative and a potent competitive antagonist at both alfa1 and alfa2 receptors?",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Prazosin",
+    "Labetalol",
+    "Phenoxybenzamine",
+    "Phentolamine"
+  ]
+},{
+  "_id": {
+    "$oid": "6183756819961ab7ce6e3d37"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Characteristics of phentolamine include all of the following EXCEPT:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Reduction in peripheral resistance",
+    "Stimulation of responses to serotonin",
+    "Tachycardia",
+    "Stimulation of muscarinic, H1 and H2 histamine receptors"
+  ]
+},{
+  "_id": {
+    "$oid": "6183758f19961ab7ce6e3d40"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "The principal mechanism of phentolamine-induced tachycardia is:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    " Antagonism of presynaptic alfa2 receptors enhances norepinephrine release, which causes cardiac  stimulation via unblocked beta receptors",
+    "Baroreflex mechanism",
+    "Direct effect on the heart by stimulation of beta1 receptors",
+    "Inhibition of transmitter reuptake at noradrenergic synapses"
+  ]
+},{
+  "_id": {
+    "$oid": "618375b319961ab7ce6e3d49"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Nonselective alfa-receptor antagonists are most useful in the treatment of:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Asthma",
+    "Cardiac arrhythmias",
+    "Pheochromocytoma",
+    " Chronic hypertension"
+  ]
+},{
+  "_id": {
+    "$oid": "618375db19961ab7ce6e3d54"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "The main reason for using alfa-receptor antagonists in the management of pheochromocytoma is:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Inhibition of the release of epinephrine from the adrenal medulla",
+    ") Blockade of alfa2 receptors on vascular smooth muscle results in epinephrine stimulation of unblocked alfa2 receptors",
+    " Direct interaction with and inhibition of beta2 adrenoreceptors",
+    "Antagonism to the release of renin "
+  ]
+},{
+  "_id": {
+    "$oid": "6183760519961ab7ce6e3d5d"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Which of the following drugs is useful in the treatment of pheochromocytoma?",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Phenylephrine",
+    "Propranolol",
+    "Phentolamine",
+    "Epinephrine"
+  ]
+},{
+  "_id": {
+    "$oid": "6183762c19961ab7ce6e3d67"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Indicate adrenoreceptor antagonist agents, which are used for the management of pheochromocytoma:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Selective beta2-receptor antagonists",
+    "Nonselective beta-receptor antagonists",
+    "Indirect-acting adrenoreceptor antagonist drugs",
+    "Αlfa-receptor antagonists"
+  ]
+},{
+  "_id": {
+    "$oid": "6183765019961ab7ce6e3d70"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "The principal adverse effects of phentolamine include all of the following EXCEPT:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Diarrhea",
+    "Bradycardia",
+    "Arrhythmias",
+    "Myocardial ischemia"
+  ]
+},{
+  "_id": {
+    "$oid": "6183767119961ab7ce6e3d7a"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Indicate the reversible nonselective alfa-receptor antagonist, which is an ergot derivative:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Ergotamine",
+    "Prazosin",
+    "Phenoxybenzamine",
+    "Carvedilol"
+  ]
+},{
+  "_id": {
+    "$oid": "6183768d19961ab7ce6e3d83"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Indicate an alfa-receptor antagonist, which binds covalently to alfa receptors, causing irreversible blockade of long  duration (14-48 hours or longer):",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Phentolamine",
+    "Phenoxybenzamine",
+    "Ergotamine",
+    "Prazosin"
+  ]
+},{
+  "_id": {
+    "$oid": "618376f419961ab7ce6e3d8d"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Compared with phentolamine, prazosin has all of the following features EXCEPT:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Irreversible blockade of alfa receptors ",
+    "Highly selective for alfa1 receptors",
+    "The relative absence of tachycardia",
+    "Persistent block of alfa1 receptors"
+  ]
+},{
+  "_id": {
+    "$oid": "6183771b19961ab7ce6e3d96"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Which of the following statements is not correct?",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "There are at least three subtypes of alfa1 receptors, designated alfa1a, alfa1b and alfa1d",
+    " ALFA1a subtype mediates prostate smooth muscle contraction",
+    "ALFA1b subtype mediates vascular smooth muscle contraction",
+    "ALFA1a subtype mediates both vascular and prostate smooth muscle contraction"
+  ]
+},{
+  "_id": {
+    "$oid": "6183773e19961ab7ce6e3d9f"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Indicate an alfa1 adrenoreceptor antagonist, which has great selectivity for alfa1a subtype:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Prazosin",
+    "Tamsulosin",
+    "Phenoxybenzamine",
+    "Phentolamine"
+  ]
+},{
+  "_id": {
+    "$oid": "6183775f19961ab7ce6e3da8"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Subtype-selective alfa1 receptor antagonists such as tamsulosin, terazosin, alfusosin are efficacious in:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Hyperthyroidism",
+    "Cardiac arrhythmias ",
+    "Benign prostatic hyperplasia (BPH) ",
+    "Asthma"
+  ]
+},{
+  "_id": {
+    "$oid": "6183779f19961ab7ce6e3db1"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Indicate an alfa receptor antagonist, which is an efficacious drug in the treatment of mild to moderate systemic  hypertension:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Phentolamine",
+    "Tolazoline",
+    "Ergotamine",
+    "Prazosin"
+  ]
+},{
+  "_id": {
+    "$oid": "618377b719961ab7ce6e3dba"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Which of the following alfa receptor antagonists is useful in reversing the intense local vasoconstriction caused by  inadvertent infiltration of norepinephrine into subcutaneous tissue during intravenous administration?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Propranolol",
+    "Phentolamine",
+    "Tamsulosin",
+    "Ergotamine"
+  ]
+},{
+  "_id": {
+    "$oid": "618377ea19961ab7ce6e3dc8"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Beta-blocking drugs-induced chronically lower blood pressure may be associated with theirs effects on:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "The heart",
+    "The blood vessels",
+    "The renin-angiotensin system ",
+    "All of the above "
+  ]
+},{
+  "_id": {
+    "$oid": "6183780f19961ab7ce6e3dd2"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Characteristics of beta-blocking agents include all of the following EXCEPT:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "They occupy beta receptors and competitively reduce receptor occupancy by catecholamines or other beta agonists ",
+    "They do not cause hypotension in individuals with normal blood pressure",
+    "They induce depression and depleted stores of catecholamines",
+    "They can cause blockade in the atrioventricular node"
+  ]
+},{
+  "_id": {
+    "$oid": "6183783419961ab7ce6e3ddc"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Beta-receptor antagonists have all of the following cardiovascular effects EXCEPT:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "The negative inotropic and chronotropic effects ",
+    "Acute effects of these drugs include a fall in peripheral resistance ",
+    "Vasoconstriction",
+    "Reduction of the release of renin"
+  ]
+},{
+  "_id": {
+    "$oid": "6183786119961ab7ce6e3de8"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Beta-blocking agents have all of the following effects except:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Increase plasma concentrations of HDL and decrease of VLDL",
+    "Bronchoconstriction",
+    "Decrease of aqueous humor production ",
+    "“membrane-stabilizing” action "
+  ]
+},{
+  "_id": {
+    "$oid": "6183788819961ab7ce6e3df1"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Beta-receptor antagonists cause:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Stimulation of lipolysis",
+    "Stimulation of gluconeogenesis ",
+    "Inhibition of glycogenolysis",
+    "Stimulation of insulin secretion"
+  ]
+},{
+  "_id": {
+    "$oid": "618378b919961ab7ce6e3dfc"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Propranolol has all of the following cardiovascular effects EXCEPT:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "It decreases cardiac work and oxygen demand ",
+    "It reduces blood flow to the brain",
+    "It inhibits the renin secretion ",
+    "It increases the atrioventricular nodal refractory period"
+  ]
+},{
+  "_id": {
+    "$oid": "618378e219961ab7ce6e3e06"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Propranolol-induced adverse effects include all of the following EXCEPT:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Bronchoconstriction",
+    "“supersensitivity” of beta-adrenergic receptors (rapid withdrawal) ",
+    "Hyperglycemia",
+    "Sedation, sleep disturbances, depression and sexual dysfunction"
+  ]
+},{
+  "_id": {
+    "$oid": "6183790819961ab7ce6e3e0f"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Propranolol is used in the treatment all of the following diseases EXCEPT:",
+  "explain": "",
+  "answerIndex": 3,
+  "options": [
+    "Cardiovascular diseases",
+    "Hyperthyroidism",
+    "Migraine headache",
+    "Bronchial asthma"
+  ]
+},{
+  "_id": {
+    "$oid": "6183793419961ab7ce6e3e19"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Metoprolol and atenolol:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Are members of the beta1-selective group ",
+    "Are nonselective beta antagonists",
+    "Have intrinsic sympathomimetic activity",
+    "Have an anesthetic action"
+  ]
+},{
+  "_id": {
+    "$oid": "6183795d19961ab7ce6e3e22"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Which of the following beta receptor antagonists is preferable in patients with asthma, diabetes or peripheral vascular  diseases?",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Propranolol ",
+    "Metoprolol",
+    "Nadolol",
+    "Timolol"
+  ]
+},{
+  "_id": {
+    "$oid": "6183798319961ab7ce6e3e2b"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Indicate a beta receptor antagonist, which has very long duration of action:",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Metoprolol",
+    "Propranolol",
+    "Nadolol",
+    "Pindolol"
+  ]
+},{
+  "_id": {
+    "$oid": "618379a819961ab7ce6e3e35"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Indicate a beta1-selective receptor antagonist, which has very long duration of action:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Betaxolol",
+    "Sotalol",
+    "Nadolol",
+    "Metoprolol"
+  ]
+},{
+  "_id": {
+    "$oid": "618379cd19961ab7ce6e3e3e"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Which of the following drugs is a nonselective beta-blocker without intrinsic sympathomimetic or local anesthetic activity  and used for the treatment of life-threatening ventricular arrhythmias?",
+  "explain": "",
+  "answerIndex": 2,
+  "options": [
+    "Propranolol",
+    "Oxprenolol",
+    "Sotalol",
+    "Atenolol"
+  ]
+},{
+  "_id": {
+    "$oid": "618379f619961ab7ce6e3e47"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Indicate a beta receptor antagonist with intrinsic sympathomimetic activity:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "Propranolol",
+    "Oxprenolol",
+    "Metoprolol",
+    "Carvedilol"
+  ]
+},{
+  "_id": {
+    "$oid": "61837a2719961ab7ce6e3e4f"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Pindolol, oxprenolol have all of the following properties EXCEPT:",
+  "explain": "",
+  "answerIndex": 1,
+  "options": [
+    "They are nonselective beta antagonists ",
+    "They have no partial agonist activity",
+    "They are less likely to cause bradycardia and abnormalities in plasma lipids",
+    "They are effective in hypertension and angina"
+  ]
+},{
+  "_id": {
+    "$oid": "61837a4719961ab7ce6e3e58"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Which of the following drugs has both alfa1-selective and beta-blocking effects?",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "Labetalol",
+    "Betaxolol",
+    "Propranolol",
+    "Timolol"
+  ]
+},{
+  "_id": {
+    "$oid": "61837a7d19961ab7ce6e3e62"
+  },
+  "category": "Adrenoreceptor activating drugs",
+  "question": "Characteristics of carvedilol include all of the following EXCEPT:",
+  "explain": "",
+  "answerIndex": 0,
+  "options": [
+    "It is a beta1-selective antagonist",
+    "It has both alfa1-selective and beta-blocking effects",
+    "It attenuates oxygen free radical-initiated lipid peroxidation",
+    "It inhibits vascular smooth muscle mitogenesis"
+  ]
+}]
